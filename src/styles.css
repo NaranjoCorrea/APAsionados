@@ -527,8 +527,13 @@ blockquote {
   padding: 12px;
 }
 
-.drop-zone span {
+.drop-zone > span {
   color: #f9dba8;
+}
+
+.drop-zone button span,
+.piece-bank button span {
+  color: inherit;
 }
 
 .piece-bank {
