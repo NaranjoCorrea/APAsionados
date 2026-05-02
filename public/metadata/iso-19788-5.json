@@ -1,0 +1,37 @@
+{
+  "name": "APAsionados",
+  "description": "Aplicación web gamificada para practicar citas y referencias APA 7 con feedback formativo.",
+  "language": "es",
+  "learningResourceType": "aplicación web educativa",
+  "intendedAudience": [
+    "estudiantes de educación superior",
+    "estudiantes de formación inicial docente"
+  ],
+  "educationalContext": [
+    "educación superior",
+    "formación docente"
+  ],
+  "learningActivity": [
+    "práctica guiada",
+    "autocorrección",
+    "evaluación formativa"
+  ],
+  "learningMethod": [
+    "gamificación",
+    "feedback inmediato",
+    "progresión por niveles"
+  ],
+  "expectedLearnerBehaviour": "Responder ejercicios, revisar soluciones explicadas y repetir rondas para mejorar precisión.",
+  "difficulty": "progresiva",
+  "typicalLearningTime": "PT30M",
+  "interactivityType": "active",
+  "assessment": "Informe PDF con intentos, enunciado, contexto, respuesta, solución y explicación.",
+  "accessibilityFeatures": [
+    "controles de sonido",
+    "control de música",
+    "reducción de efectos visuales",
+    "compatibilidad con prefers-reduced-motion"
+  ],
+  "creator": "Francisco Luis Naranjo Correa",
+  "copyright": "© 2026 Francisco Luis Naranjo Correa"
+}
